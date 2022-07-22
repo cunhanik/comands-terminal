@@ -1,0 +1,6 @@
+mkdir X -> cria pasta X
+cd X -> entra na pasta X
+ls -> mostra o que está na pasta
+pwd -> Caminho completo da pasta que estou
+D: -> Ir para o disco D
+cd .. -> retorna uma pasta
